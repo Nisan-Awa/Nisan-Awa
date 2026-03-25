@@ -27,6 +27,7 @@ If you're building something meaningful, let’s build it better **together**.
 ## 📫 Reach Me
 📧 Email: [nisanawa5@gmail.com]  
 Let's connect, share ideas, and create impactful technology.
+
 ✅️ Portfolio: https://portfolio-nisan-awa-tojah.vercel.app/
 
 ## 😄 Pronouns
