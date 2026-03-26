@@ -1,4 +1,4 @@
-# 👋 Hello, I’m @Nisan-Awa
+# 👋 Hello, I’m @Awa Nisan Tojah
 
 I’m a passionate tech enthusiast with a strong interest in *all things technology* — from innovative hardware to powerful software solutions.  
 Currently, I'm focused on building **mobile applications** using **Flutter** and the **Dart** programming language.
